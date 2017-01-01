@@ -14,7 +14,7 @@ Django Cleanup deletes files once we delete the models associated with them and 
 Our Frontend used Material design and we obtained code from and based on the documentation
 
 
-This project was done for CSC 210. It was a group project. The goal was to develop a CRUD website.  
+This project was done for CSC 210. It was a group project with JordyGuntur and eesomeme(GitHub names). The goal was to develop a CRUD website.  
 
 HiveMind features:
 
